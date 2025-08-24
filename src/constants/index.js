@@ -162,7 +162,7 @@ const projects = [
     name: "PSIT Virtual Labs",
     description: "HTML/CSS/JS virtual lab platform featuring interactive simulations for CS and EE curricula. Enhances learning with hands-on digital experiments.",
     image: "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
-    website_link: "https://psit-viertual-lab.vercel.app/",
+    website_link: "https://psit-virtual-lab.vercel.app/",
     source_code_link: "https://github.com/gagandeepsingh76/PSIT-Virtual-Lab.git",
   },
   {
