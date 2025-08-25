@@ -199,7 +199,7 @@ const projects = [
     name: "Virtual Reality",
     description: "Immersive VR experience with interactive 3D environments, spatial audio, and motion tracking for educational and entertainment applications.",
     image: projectImageSix,
-    source_code_link: "#", // TODO: replace with actual repo link
+    source_code_link: "https://github.com/gagandeepsingh76/Virtual-Reality-Labs.git", // TODO: replace with actual repo link
   },
 ];
 
