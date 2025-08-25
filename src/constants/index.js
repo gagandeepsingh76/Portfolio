@@ -193,7 +193,7 @@ const projects = [
     name: "Arogyaverse",
     description: "Healthcare metaverse platform for virtual medical consultations and patient care. Features 3D virtual environments, real-time doctor-patient interactions, AI-powered symptom analysis, and secure health record management.",
     image: projectImageFive,
-    source_code_link: "#", // TODO: replace with actual repo link
+    source_code_link: "https://arogyaverse-six.vercel.app/", // TODO: replace with actual repo link
   },
   {
     name: "Virtual Reality",
