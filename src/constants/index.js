@@ -175,19 +175,13 @@ const projects = [
     name: "DeepDR",
     description: "Deep learning-based Diabetic Retinopathy analysis and detection system using ResNet, MobileNet, EfficientNet, and Inception models.",
     image: projectImageTwo,
-    source_code_link: "#", // TODO: replace with actual repo link
+    source_code_link: "https://github.com/gagandeepsingh76/Diabetic-Eye-Retinopathy.git", // TODO: replace with actual repo link
   },
   {
     name: "DeepDR using Quantum Transfer Learning",
     description: "Hybrid quantum-classical transfer learning for DR detection leveraging ResNet, MobileNet, EfficientNet, and Inception feature extractors with quantum layers.",
     image: projectImageThree,
-    source_code_link: "#", // TODO: replace with actual repo link
-  },
-  {
-    name: "Mouse Control using Hand Gesture",
-    description: "Computer vision-based hand gesture recognition system for mouse cursor control and interaction.",
-    image: projectImageFour,
-    source_code_link: "#", // TODO: replace with actual repo link
+    source_code_link: "https://github.com/gagandeepsingh76/Diabetic-Eye-Retinopathy-Quantum-Learning.git", // TODO: replace with actual repo link
   },
   {
     name: "Arogyaverse",
