@@ -1,7 +1,7 @@
 # 🚀 Personal Portfolio Website
 
 [<img width="55" height="42" alt="image" src="https://github.com/user-attachments/assets/24816803-09e3-4c00-964e-5eccf0452c48" />
-](https://portfolio-seven-self-12.vercel.app/)
+](https://portfolio-seven-self-12.vercel.app/)   CLICK TO PREVIEW
 
 Welcome to my **Personal Portfolio Website**, built with **React**, **Vite**, and **Tailwind CSS**. This website showcases my **skills**, **projects**, **achievements**, and **contact information** in a clean, modern, and responsive design.  
 
