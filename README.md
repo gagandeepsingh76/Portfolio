@@ -53,4 +53,3 @@ src/ # Source code
 
 ```bash
 git clone https://github.com/gagandeepsingh76/Portfolio.git
-cd Portfolio
