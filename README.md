@@ -1,57 +1,55 @@
-🚀 Portfolio Website
+# 🚀 Personal Portfolio Website
 
-This is my personal Portfolio Website built with React, Vite, and Tailwind CSS.
-It showcases my skills, projects, achievements, and contact information in a clean and modern design.
-The project is deployed on Vercel.
+![Portfolio Demo](https://portfolio-seven-self-12.vercel.app/)  
 
-📂 Project Structure
+Welcome to my **Personal Portfolio Website**, built with **React**, **Vite**, and **Tailwind CSS**. This website showcases my **skills**, **projects**, **achievements**, and **contact information** in a clean, modern, and responsive design.  
 
-Portfolio/
-│
-├── public/ # Static assets
-├── src/ # Source code
-│ ├── components/ # Reusable UI components
-│ ├── pages/ # Different sections/pages
-│ ├── App.jsx # Main app entry
-│ └── index.js # React DOM rendering
-│
-├── index.html # HTML entry point
-├── package.json # Project dependencies
-├── postcss.config.cjs # PostCSS configuration
-├── tailwind.config.cjs # Tailwind CSS configuration
-├── vite.config.js # Vite configuration
-└── README.md # Project documentation
+The project is deployed on **Vercel** for seamless access.  
 
-🛠️ Tech Stack
+---
 
-Frontend Framework: React + Vite ⚡
+## 📂 Project Structure
 
-Styling: Tailwind CSS 🎨
+public/ # Static assets (images, icons, etc.)
+src/ # Source code
+   components/ # Reusable UI components
+   pages/ # Different sections/pages (Home, About, Projects, Contact)
+   App.jsx # Main app component
+   index.js # React DOM rendering
 
-Build Tool: Vite
+  index.html # HTML entry point
+  package.json # Project dependencies
+  postcss.config.cjs # PostCSS configuration
+  tailwind.config.cjs # Tailwind CSS configuration
+  vite.config.js # Vite configuration
+  README.md # Project documentation
 
-Deployment: Vercel 🌐
+  
+---
 
-🚀 Getting Started
-1. Clone the repository
+## 🛠️ Tech Stack
 
+- **Frontend Framework:** React + Vite ⚡  
+- **Styling:** Tailwind CSS 🎨  
+- **Build Tool:** Vite  
+- **Deployment:** Vercel 🌐  
+
+---
+
+## 🚀 Features
+
+- Modern, clean, and responsive UI  
+- Showcases **skills**, **projects**, and **achievements**  
+- Interactive **contact form**  
+- Smooth scrolling and animations  
+- Mobile-friendly design  
+
+---
+
+## 🏁 Getting Started
+
+### 1️⃣ Clone the repository
+
+```bash
 git clone https://github.com/gagandeepsingh76/Portfolio.git
-
 cd Portfolio
-
-2. Install dependencies
-
-npm install
-
-3. Run the development server
-
-npm run dev
-Open http://localhost:5173 in your browser.
-
-4. Build for production
-
-npm run build
-
-🌐 Live Demo
-
-👉 Portfolio Website:https://portfolio-seven-self-12.vercel.app/
